@@ -1,0 +1,18 @@
+com/efaso/admob_advanced_native_recyvlerview/AdmobNativeAdAdapter.java
+ com.efaso.admob_advanced_native_recyvlerview.AdmobNativeAdAdapter
+ com.efaso.admob_advanced_native_recyvlerview.AdmobNativeAdAdapter$1
+ com.efaso.admob_advanced_native_recyvlerview.AdmobNativeAdAdapter$2
+ com.efaso.admob_advanced_native_recyvlerview.AdmobNativeAdAdapter$3
+ com.efaso.admob_advanced_native_recyvlerview.AdmobNativeAdAdapter$AdViewHolder
+ com.efaso.admob_advanced_native_recyvlerview.AdmobNativeAdAdapter$Builder
+ com.efaso.admob_advanced_native_recyvlerview.AdmobNativeAdAdapter$Param
+com/efaso/nativetemplates/TemplateView.java
+ com.efaso.nativetemplates.TemplateView
+com/efaso/nativetemplates/NativeTemplateStyle.java
+ com.efaso.nativetemplates.NativeTemplateStyle
+ com.efaso.nativetemplates.NativeTemplateStyle$Builder
+com/efaso/admob_advanced_native_recyvlerview/BuildConfig.java
+ com.efaso.admob_advanced_native_recyvlerview.BuildConfig
+com/efaso/rvadapter/RecyclerViewAdapterWrapper.java
+ com.efaso.rvadapter.RecyclerViewAdapterWrapper
+ com.efaso.rvadapter.RecyclerViewAdapterWrapper$1
